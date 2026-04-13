@@ -15,5 +15,5 @@ Power BI
 Excel 
 Minitab (control estadístico de procesos)
 
-🧠 Habilidades blandas
+🧠 Habilidades blandas:
 Análisis de datos | Trabajo en equipo | Orientación a resultados | Organización | Adaptabilidad  | Inteligencia emocional
